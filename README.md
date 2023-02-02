@@ -1,2 +1,2 @@
 # fundamentos-ruby
-Curso de Ruby on rails
+Curso de Ruby on rails.
